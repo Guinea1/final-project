@@ -2,7 +2,7 @@
 
 [Home](README.md) | [About me](About.md) | [Turtle House](House.md) | [Recursive Turtle](Recursive.md) | [Random Number Reader/Writer](Numbers.md)
 
-## Turtle House
+## Turtle House _(1000)_
 
 ![Python Icon](http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-PNG-Image.png)
 
