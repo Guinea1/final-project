@@ -1,6 +1,8 @@
-# About me ![Icon](PageIcon.png)
+# Bobby's Site ![Icon](PageIcon.png)
 
 [Home](README.md) | [About me](About.md) | [Turtle House](House.md) | [Recursive Turtle](Recursive.md) | [Random Number Reader/Writer](Numbers.md)
+
+## About me
 
 Hi, I'm Bobby and here is some quick facts about me:
 
