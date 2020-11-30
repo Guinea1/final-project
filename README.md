@@ -1,4 +1,4 @@
-# Bobby's Site
+# Bobby's Site ![Icon](PageIcon.png)
 
 [Home](README.md) | [About me](About.md) | [Turtle House](House.md) | [Recursive Turtle](Recursive.md) | [Random Number Reader/Writer](Numbers.md)
 
