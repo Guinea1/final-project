@@ -9,7 +9,10 @@
 Here is the code from my python turtle house program:
 
 ```
-#make base of house (square)  
+import turtle
+#makes a small house
+
+#make base of house (square)
 turtle.forward(50)
 turtle.left(90)
 turtle.forward(50)
@@ -18,12 +21,11 @@ turtle.forward(50)
 turtle.left(90)
 turtle.forward(50)
 
-
-#go to where door will be  
+#go to where door will be
 turtle.left(90)
 turtle.forward(18)
 
-#make door (rectangle)  
+#make door (rectangle)
 turtle.left(90)
 turtle.forward(25)
 turtle.right(90)
@@ -31,13 +33,13 @@ turtle.forward(15)
 turtle.right(90)
 turtle.forward(25)
 
-#go up to where roof will be  
+#go up to where roof will be
 turtle.left(90)
 turtle.forward(17)
 turtle.left(90)
 turtle.forward(50)
 
-#make roof (triangle)  
+#make roof (triangle)
 turtle.left(40)
 turtle.forward(50)
 turtle.left(117)
