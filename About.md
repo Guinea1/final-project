@@ -6,7 +6,7 @@
 
 Hi, I'm Bobby and here is some quick facts about me:
 
-* I have 2 cats (Sammy and Mopept).
+* I have 2 cats (Sammy and Moppet).
 * I like coding and computers in general.
 * I can code in Java, Python, HTML, and (some) JavaScript.
 * My favorite color is green.
